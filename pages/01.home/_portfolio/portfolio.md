@@ -5,6 +5,23 @@ url: 'https://github.com/RobLui'
 portfolios:
     websites:
         -
+            title: Object-Orientizer
+            linker: object-orientizer
+            folder: proof_of_concept/tree/master/poc-coder
+            iconfa: github
+            subtitle: 'Made with Laravel'
+            layout: default
+            img: object-orientizer.jpg
+            alt: object-orientizer
+            thumbnail: object-orientizer.jpg
+            youtube: null
+            sort: website
+            httptype: http
+            linkurl: object-orientizer.robbertluit.be
+            projectdate: '2017'
+            category: 'Web Research 3 - p2'
+            description: 'Proof of concept - Get suggestions based on OOP, for JS/PHP files.'
+        -
             title: FoodGuru
             linker: foodguru
             folder: project3
@@ -15,12 +32,12 @@ portfolios:
             alt: FoodGuru
             thumbnail: foodguru-thumb.jpg
             youtube: null
-            sort: 'website'
-            httptype: 'https'
-            linkurl: 'foodguru.robbertluit.be'
+            sort: website
+            httptype: https
+            linkurl: foodguru.robbertluit.be
             projectdate: '2017'
             category: 'Project Web 3'
-            description: A project made for school. In this website you can enter search ingredients that you've got laying around at home. Based on these ingredients, you can make a delightfull meal.
+            description: 'A project made for school. In this website you can enter search ingredients that you''ve got laying around at home. Based on these ingredients, you can make a delightfull meal.'
             partners:
                 - 'Phedra Moerloos'
         -
@@ -34,9 +51,9 @@ portfolios:
             alt: Aproject
             thumbnail: aproject-thumb.jpg
             youtube: null
-            sort: 'website'
-            httptype: 'http'
-            linkurl: 'aproject.robbertluit.be'
+            sort: website
+            httptype: http
+            linkurl: aproject.robbertluit.be
             projectdate: '2016'
             category: 'Project Web 2'
             description: 'A project made for school, with as client, Antwerp.'
@@ -53,9 +70,9 @@ portfolios:
             alt: Hackernews
             thumbnail: hackernews.jpg
             youtube: null
-            sort: 'website'            
-            httptype: 'http'
-            linkurl: 'hackernews.robbertluit.be'
+            sort: website
+            httptype: http
+            linkurl: hackernews.robbertluit.be
             projectdate: '2016'
             category: 'Web Backend'
             description: 'The well known hackernews remade in a php framework. Made for a school assignment.'
@@ -69,8 +86,8 @@ portfolios:
             img: pokemonapp.jpg
             alt: 'Pokemon App'
             thumbnail: pokemonapp.jpg
-            sort: 'website'
-            httptype: 'https'
+            sort: website
+            httptype: https
             linkurl: roblui.github.io/site
             youtube: null
             projectdate: '2016'
@@ -85,9 +102,9 @@ portfolios:
             alt: 'Brent Belmans'
             thumbnail: brentbelmans-thumb.jpg
             youtube: null
-            sort: 'website'
-            httptype: 'http'
-            linkurl: 'brentbelmans.com'
+            sort: website
+            httptype: http
+            linkurl: brentbelmans.com
             projectdate: '2017'
             category: '3D Student'
             description: 'A simple to maintain site made for a fellow student who doesnt know web stuff other than html & css'
@@ -102,9 +119,9 @@ portfolios:
             alt: Wedstrijd
             thumbnail: competition.jpg
             youtube: null
-            sort: 'website'
-            httptype: 'https'
-            linkurl: 'development.robbertluit.be'
+            sort: website
+            httptype: https
+            linkurl: development.robbertluit.be
             projectdate: '2017'
             category: 'Web Development'
             description: 'A competition made for a well known brand, fictive ofcourse.'
@@ -119,9 +136,9 @@ portfolios:
             thumbnail: project1.jpg
             alt: 'Project 1'
             youtube: null
-            sort: 'website'
-            httptype: 'http'
-            linkurl: 'first-site.robbertluit.be'
+            sort: website
+            httptype: http
+            linkurl: first-site.robbertluit.be
             projectdate: '2014'
             category: 'Project Web 1'
             description: 'The very first website I made for school. It uses HTML & CSS in combination with media queries.'
@@ -135,7 +152,7 @@ portfolios:
             alt: trAsh
             thumbnail: trash.jpg
             youtube: null
-            sort: 'website'
+            sort: website
             httptype: ''
             linkurl: '#'
             projectdate: '2015'
@@ -156,8 +173,8 @@ portfolios:
             thumbnail: supermaze-thumbi.jpg
             alt: 'The SuperMaze'
             youtube: null
-            sort: 'app'
-            httptype: 'https'
+            sort: app
+            httptype: https
             linkurl: '/play.google.com/store/apps/details?id=com.ramp.thesupermaze&hl=nl'
             projectdate: '2016'
             category: Bootcamp
@@ -176,7 +193,7 @@ portfolios:
             img: hangman.jpg
             thumbnail: hangman.jpg
             alt: Hangman
-            sort: 'website'
+            sort: website
             youtube: null
             httptype: ''
             linkurl: '#'
@@ -190,7 +207,7 @@ portfolios:
             partners:
                 - 'Pieter Melis'
         -
-            title: 'REACT'
+            title: REACT
             linker: hackathon_2017
             folder: hackaton_2017
             iconfa: github
@@ -198,9 +215,9 @@ portfolios:
             layout: default
             img: hackathon_2017.jpg
             thumbnail: hackathon_2017-thumb.jpg
-            alt: 'REACT'
+            alt: REACT
             youtube: null
-            sort: 'site'
+            sort: site
             httptype: ''
             linkurl: ''
             projectdate: '2017'
