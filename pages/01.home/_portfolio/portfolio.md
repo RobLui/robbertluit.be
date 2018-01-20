@@ -5,6 +5,23 @@ url: 'https://github.com/RobLui'
 portfolios:
     websites:
         -
+            title: Landoretti
+            linker: landoretti
+            folder: web_development_2/tree/master/veilingsite
+            iconfa: github
+            subtitle: 'Made with Laravel'
+            layout: default
+            img: landoretti.jpg
+            alt: landoretti
+            thumbnail: landoretti.jpg
+            youtube: null
+            sort: website
+            httptype: https
+            linkurl: landoretti.robbertluit.be
+            projectdate: '2017'
+            category: 'Web Development 3 - p2'
+            description: 'Landoretti, Online Art auctioning - Frontend delivered + a couple of backend features as extra'
+        -
             title: Object-Orientizer
             linker: object-orientizer
             folder: proof_of_concept/tree/master/poc-coder
@@ -74,7 +91,7 @@ portfolios:
             httptype: http
             linkurl: hackernews.robbertluit.be
             projectdate: '2016'
-            category: 'Web Backend'
+            category: 'Web Backend 2'
             description: 'The well known hackernews remade in a php framework. Made for a school assignment.'
         -
             title: 'Pokemon App'
@@ -123,7 +140,7 @@ portfolios:
             httptype: https
             linkurl: development.robbertluit.be
             projectdate: '2017'
-            category: 'Web Development'
+            category: 'Web Development 3'
             description: 'A competition made for a well known brand, fictive ofcourse.'
         -
             title: 'First Website'
