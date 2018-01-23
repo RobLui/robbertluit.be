@@ -21,6 +21,8 @@ portfolios:
             projectdate: '2017'
             category: 'Web Project 3 - p2'
             description: 'Restaumator is a restaurant automater application. Combinates hardware + software. Used for drink & payment automatisation'
+            partners:
+                - 'Alessandro Aussems'
         -
             title: Landoretti
             linker: landoretti
