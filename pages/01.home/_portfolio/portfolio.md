@@ -5,6 +5,23 @@ url: 'https://github.com/RobLui'
 portfolios:
     websites:
         -
+            title: Restaumator
+            linker: restaumator
+            folder: Restaumator/tree/master/restaumator
+            iconfa: github
+            subtitle: 'Made with Laravel & Arduino'
+            layout: default
+            img: restaumator.jpg
+            alt: restaumator
+            thumbnail: restaumator.jpg
+            youtube: 'https://youtu.be/mxV8K7mM3-0'
+            sort: website
+            httptype: http
+            linkurl: restaumator.com
+            projectdate: '2017'
+            category: 'Web Project 3 - p2'
+            description: 'Restaumator is a restaurant automater application. Combinates hardware + software. Used for drink & payment automatisation'
+        -
             title: Landoretti
             linker: landoretti
             folder: web_development_2/tree/master/veilingsite
