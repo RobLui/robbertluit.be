@@ -12,12 +12,12 @@ content:
             - _clients
 menu: Home
 googletitle: 'Portfolio Robbert Luit'
-googledesc: 'My personal website. Contains a list of my skills and projects that I''ve made so far. Passionate in what I do. #iDevelop#'
+googledesc: 'My personal website. Contains a list of my skills and projects that I''ve made so far. Passionate in what I do. ## iDevelop ##'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /_header/rl_website.jpg
 twittertitle: 'Portfolio Robbert Luit'
-twitterdescription: 'My personal website. Contains a list of my skills and projects that I''ve made so far. Passionate in what I do. #iDevelop#'
+twitterdescription: 'My personal website. Contains a list of my skills and projects that I''ve made so far. Passionate in what I do. ## iDevelop ##'
 articleenabled: false
 musiceventenabled: false
 orgaenabled: false
@@ -77,6 +77,6 @@ form:
                 subject: '[Site Contact Form] {{ form.value.name|e }}'
                 body: '{% include ''forms/data.html.twig'' %}'
         -
-            message: 'Thank you for getting in touch!'
+            message: 'Thanks! We will be in touch soon :)'
 ---
 
