@@ -14,7 +14,7 @@ portfolios:
             img: restaumator.jpg
             alt: restaumator
             thumbnail: restaumator-thumb.jpg
-            youtube: 'https://youtu.be/mxV8K7mM3-0'
+            youtube: 'https://www.youtube.com/embed/mxV8K7mM3-0'
             sort: website
             httptype: http
             linkurl: restaumator.com
