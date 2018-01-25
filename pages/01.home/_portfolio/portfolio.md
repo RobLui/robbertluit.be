@@ -32,7 +32,7 @@ portfolios:
             layout: default
             img: landoretti.jpg
             alt: landoretti
-            thumbnail: landoretti.jpg
+            thumbnail: landoretti-thumb.jpg
             youtube: null
             sort: website
             httptype: https
@@ -49,7 +49,7 @@ portfolios:
             layout: default
             img: object-orientizer.jpg
             alt: object-orientizer
-            thumbnail: object-orientizer.jpg
+            thumbnail: object-orientizer-thumb.jpg
             youtube: null
             sort: website
             httptype: http
