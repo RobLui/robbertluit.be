@@ -13,7 +13,7 @@ portfolios:
             layout: default
             img: restaumator.jpg
             alt: restaumator
-            thumbnail: restaumator.jpg
+            thumbnail: restaumator-thumb.jpg
             youtube: 'https://youtu.be/mxV8K7mM3-0'
             sort: website
             httptype: http
