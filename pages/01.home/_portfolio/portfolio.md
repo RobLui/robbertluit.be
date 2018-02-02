@@ -247,7 +247,7 @@ portfolios:
             linker: hackathon_2017
             folder: hackaton_2017
             iconfa: github
-            subtitle: '-------'
+            subtitle: 'Made with HTML, CSS, JS, <br> Arduino, Makey Makey'
             layout: default
             img: hackathon_2017.jpg
             thumbnail: hackathon_2017-thumb.jpg
