@@ -7,7 +7,7 @@ portfolios:
         -
             title: 'Coderdojo Scratch'
             linker: coderdojo
-            subtitle: 'Made with GRAV'
+            subtitle: 'Made with Grav'
             layout: default
             img: coderdojo.jpg
             thumbnail: coderdojo-thumb.jpg
