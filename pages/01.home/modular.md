@@ -74,9 +74,9 @@ form:
     process:
         -
             email:
-                subject: '[Site Contact Form] {{ form.value.name|e }}'
+                subject: 'Bericht van robbertluit.be {{ form.value.name|e }}'
                 body: '{% include ''forms/data.html.twig'' %}'
         -
-            message: 'Thanks! We will be in touch soon :)'
+            message: Bedankt!
 ---
 
