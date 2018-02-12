@@ -9,8 +9,8 @@ portfolios:
             linker: coderdojo
             subtitle: 'Made with GRAV'
             layout: default
-            img: coderdojoscratch.jpg
-            thumbnail: coderdojoscratch.jpg
+            img: coderdojo.jpg
+            thumbnail: coderdojo-thumb.jpg
             alt: 'Coderdojo Scratch'
             youtube: null
             sort: website
