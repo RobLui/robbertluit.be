@@ -6,6 +6,7 @@ portfolios:
     websites:
         -
             title: 'Coderdojo Scratch'
+            linker: coderdojo
             subtitle: 'Made with GRAV'
             layout: default
             img: coderdojoscratch.jpg
