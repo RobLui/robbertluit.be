@@ -74,7 +74,7 @@ form:
     process:
         -
             email:
-                subject: 'Bericht van robbertluit.be {{ form.value.name|e }}'
+                subject: '[Bericht van robbertluit.be] {{ form.value.name|e }}'
                 body: '{% include ''forms/data.html.twig'' %}'
         -
             message: Bedankt!
