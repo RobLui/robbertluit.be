@@ -5,6 +5,20 @@ url: 'https://github.com/RobLui'
 portfolios:
     websites:
         -
+            title: 'Coderdojo Scratch'
+            subtitle: 'Made with GRAV'
+            layout: default
+            img: coderdojoscratch.jpg
+            thumbnail: coderdojoscratch.jpg
+            alt: 'Coderdojo Scratch'
+            youtube: null
+            sort: website
+            httptype: http
+            linkurl: coderdojo.robbertluit.be
+            projectdate: '2018'
+            category: Coderdojo
+            description: 'A website made for children/parents that want to learn how to code and have no idea yet where to start'
+        -
             title: Restaumator
             linker: restaumator
             folder: Restaumator/tree/master/restaumator
