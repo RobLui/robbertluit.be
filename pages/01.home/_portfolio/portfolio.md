@@ -203,16 +203,16 @@ portfolios:
             alt: wannawork-game
             thumbnail: wannaworkgame.jpg
             youtube: null
-            sort: website-game
+            sort: ' '
             httptype: http
             linkurl: wannaworkgame.com
             projectdate: '2017'
             category: 'Senior Projects'
-            description: 'Wannawork value meter, gets your values through playing a game based on a real life solicitation'
+            description: 'WannaWork value meter, gets your values through playing a game based on a real life solicitation'
             partners:
-                - 'Pepijn Willekens '
-                - 'Brent Belmans '
-                - 'Sacha Meertens'
+                - 'Pepijn Willekens, '
+                - 'Brent Belmans, '
+                - 'Sacha Meertens, '
                 - 'Joppe Demulder'
         -
             title: TrAsh
