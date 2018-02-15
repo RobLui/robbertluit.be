@@ -195,6 +195,26 @@ portfolios:
             description: 'The very first website I made for school. It uses HTML & CSS in combination with media queries.'
     other:
         -
+            title: 'WannaWork Game'
+            linker: wannaworkgame
+            subtitle: 'Made with Laravel & unity3d'
+            layout: default
+            img: wannaworkgame.jpg
+            alt: wannawork-game
+            thumbnail: wannaworkgame.jpg
+            youtube: null
+            sort: website-game
+            httptype: http
+            linkurl: wannaworkgame.com
+            projectdate: '2017'
+            category: 'Senior Projects'
+            description: 'Wannawork value meter, gets your values through playing a game based on a real life solicitation'
+            partners:
+                - 'Pepijn Willekens '
+                - 'Brent Belmans '
+                - 'Sacha Meertens'
+                - 'Joppe Demulder'
+        -
             title: TrAsh
             linker: trash
             subtitle: 'Made with Premiere'
