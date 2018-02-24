@@ -195,7 +195,7 @@ portfolios:
             description: 'The very first website I made for school. It uses HTML & CSS in combination with media queries.'
     other:
         -
-            title: 'WannaWork Game'
+            title: 'WannaWork Game + API'
             linker: wannaworkgame
             subtitle: 'Made with Laravel & unity3d'
             layout: default
@@ -208,7 +208,7 @@ portfolios:
             linkurl: wannaworkgame.com
             projectdate: '2017'
             category: 'Senior Projects'
-            description: 'WannaWork value meter, gets your values through playing a game based on a real life solicitation'
+            description: 'WannaWork value meter, gets characteristic values through playing a game based on a real life solicitation.<br>Included in this project is a fully functional backend API where WannaWork can set custom dialogs, attach values to each dialog answerd, and so on.'
             partners:
                 - 'Pepijn Willekens, '
                 - 'Brent Belmans, '
