@@ -50,7 +50,7 @@ portfolios:
             thumbnail: landoretti-thumb.jpg
             youtube: null
             sort: website
-            httptype: https
+            httptype: http
             linkurl: landoretti.robbertluit.be
             projectdate: '2017'
             category: 'Web Development 3 - p2'
@@ -84,7 +84,7 @@ portfolios:
             thumbnail: foodguru-thumb.jpg
             youtube: null
             sort: website
-            httptype: https
+            httptype: http
             linkurl: foodguru.robbertluit.be
             projectdate: '2017'
             category: 'Project Web 3'
@@ -171,7 +171,7 @@ portfolios:
             thumbnail: competition.jpg
             youtube: null
             sort: website
-            httptype: https
+            httptype: http
             linkurl: development.robbertluit.be
             projectdate: '2017'
             category: 'Web Development 3'
