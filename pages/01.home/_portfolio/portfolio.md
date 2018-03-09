@@ -10,7 +10,7 @@ portfolios:
             subtitle: 'Made with Laravel'
             layout: default
             img: share-my-bugs.jpg
-            thumbnail: share-my-bugs.jpg
+            thumbnail: share-my-bugs-thumb.jpg
             alt: 'Share My Bugs'
             youtube: null
             sort: website
