@@ -23,7 +23,7 @@ services:
         logoalt: Grav
         icontitle: Grav
         percent: 80
-        barcolor: blue
+        barcolor: green
     -
         header: jQuery
         customicon: jquery.png
@@ -113,15 +113,15 @@ services:
         customicon: sass.png
         logoalt: Sass
         icontitle: Sass
-        percent: 60
-        barcolor: blue
+        percent: 80
+        barcolor: green
     -
         header: YAML
         customicon: yaml.png
         logoalt: Yaml
         icontitle: Yaml
-        percent: 60
-        barcolor: blue
+        percent: 70
+        barcolor: green
     -
         header: Linux
         customicon: linux.png
