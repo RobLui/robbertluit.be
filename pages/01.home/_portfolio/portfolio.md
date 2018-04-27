@@ -299,8 +299,8 @@ portfolios:
             iconfa: github
             subtitle: 'Made with HTML, CSS, JS, <br> Arduino, Makey Makey'
             layout: default
-            img: hackathon_2017.jpg
-            thumbnail: hackathon_2017-thumb.jpg
+            img: hackathon_2017-thumb.jpg
+            thumbnail: hackathon_2017.jpg
             alt: REACT
             youtube: null
             sort: site
