@@ -6,19 +6,19 @@ portfolios:
     websites:
         -
             title: iCollect-Games
-            linker: share-my-bugs
-            subtitle: 'Made with Laravel'
+            linker: icollect-games
+            subtitle: 'Made with Laravel | Web RTC | Js'
             layout: default
-            img: share-my-bugs.jpg
-            thumbnail: share-my-bugs-thumb.jpg
-            alt: 'Share My Bugs'
+            img: icollect-games.jpg
+            thumbnail: icollect-games.jpg
+            alt: iCollect-Games
             youtube: null
             sort: website
-            httptype: http
-            linkurl: share-my-bugs.robbertluit.be
+            httptype: https
+            linkurl: icollect-games.com
             projectdate: '2018'
             category: Random
-            description: 'Share my bugs through screenshots, upload the screenshot, and get provided links to share on different platforms and different styles. (For example: get a markdown link to share on github)'
+            description: 'iCollect-Games | Game Collection Tool | Collection Tracker'
         -
             title: Share-My-Bugs
             linker: share-my-bugs
