@@ -156,7 +156,7 @@ portfolios:
             linkurl: hackernews.robbertluit.be
             projectdate: '2016'
             category: 'Web Backend 2'
-            description: 'The well known hackernews remade in a php framework. Made for a school assignment.'
+            description: 'The well known Hackernews remade in a php framework. Made for a school assignment.'
         -
             title: 'Pokemon App'
             linker: pokemonapp
@@ -173,7 +173,7 @@ portfolios:
             youtube: null
             projectdate: '2016'
             category: 'Web Frontend 2'
-            description: 'A simple web angular 2 project, nothing spectaculair.'
+            description: 'A simple Angular 2 project, nothing spectaculair.'
         -
             title: 'Brent Belmans'
             linker: brentbelmans
@@ -188,7 +188,7 @@ portfolios:
             linkurl: brentbelmans.com
             projectdate: '2017'
             category: '3D Student'
-            description: 'A simple to maintain site made for a fellow student who doesnt know web stuff other than html & css'
+            description: 'A simple to maintain site made for a fellow student who doesn''t know web stuff other than html & css'
         -
             title: Competition
             linker: competition
